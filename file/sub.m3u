@@ -114,17 +114,17 @@ http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1673464127" group-title="英雄联盟", 虎牙英雄联盟赛事
-https://tv.iill.top/huya/660000?quality=30000
+http://live.iill.top/huya.php?id=660000?quality=30000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836" group-title="英雄联盟", Zz1tai姿态
 http://live.iill.top/huya.php?id=333003
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/57/c520ca01e7a02975e7e5d96f432cff_180_135.jpg?1683371602" group-title="英雄联盟", Uzi
-https://tv.iill.top/huya/100
+http://live.iill.top/huya.php?id=100
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/d8/6844f976f2ca969a4db540d52253a6_180_135.jpg?1536241247" group-title="英雄联盟", 药水哥
-https://tv.iill.top/huya/522222
+http://live.iill.top/huya.php?id=522222
 
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1056/e7/c61ec3ae80bbc93817186f3a41d47c_180_135.jpg?1449028717" group-title="一起看", 三国演义
-https://tv.iill.top/huya/11352944
+http://live.iill.top/huya.php?id=11352944
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1099/f6/53aafc173b24d0c336faac2e49b822_180_135.jpg?1445851392" group-title="一起看", 爱情公寓
-https://tv.iill.top/huya/11336726
+http://live.iill.top/huya.php?id=11336726
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1040/61/9e8348d60b86f6391add9746a0fe0e_180_135.jpg" group-title="一起看", 家有儿女
-https://tv.iill.top/huya/11352872
+http://live.iill.top/huya.php?id=11352872
